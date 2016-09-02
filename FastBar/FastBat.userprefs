@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Droid/FastBat.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FastBat/FastBatPage.xaml.cs">
+    <Files>
+      <File FileName="FastBat/EventsView.xaml.cs" Line="36" Column="8" />
+      <File FileName="FastBat/LocalDataBase/FastBatDatabase.cs" Line="72" Column="3" />
+      <File FileName="FastBat/FastBatPage.xaml.cs" Line="72" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.FastBat.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3E4546C8-44A4-42C7-9C97-6238796E6332" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FastBat.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

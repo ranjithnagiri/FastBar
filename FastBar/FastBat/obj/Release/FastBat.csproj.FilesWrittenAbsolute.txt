@@ -1,0 +1,17 @@
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.App.xaml
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.FastBatPage.xaml
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.EventsView.xaml
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.App.xaml.g.cs
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.FastBatPage.xaml.g.cs
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.EventsView.xaml.g.cs
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/FastBat.dll
+/Users/ibs/Projects/FastBat/FastBat/obj/Release/FastBat.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/Xamarin.Forms.Core.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/Xamarin.Forms.Platform.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/System.Net.Http.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/Newtonsoft.Json.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/SQLite-net.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/SQLitePCL.raw.dll
+/Users/ibs/Projects/FastBat/FastBat/bin/Release/SQLitePCL.batteries.dll

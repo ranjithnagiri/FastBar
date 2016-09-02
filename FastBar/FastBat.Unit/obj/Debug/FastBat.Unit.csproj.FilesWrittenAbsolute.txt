@@ -1,0 +1,7 @@
+/Users/ibs/Projects/FastBat/FastBat.Unit/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ibs/Projects/FastBat/FastBat.Unit/bin/Debug/FastBat.Unit.dll.mdb
+/Users/ibs/Projects/FastBat/FastBat.Unit/bin/Debug/FastBat.Unit.dll
+/Users/ibs/Projects/FastBat/FastBat.Unit/obj/Debug/FastBat.Unit.dll
+/Users/ibs/Projects/FastBat/FastBat.Unit/obj/Debug/FastBat.Unit.dll.mdb
+/Users/ibs/Projects/FastBat/FastBat.Unit/bin/Debug/Xamarin.UITest.dll
+/Users/ibs/Projects/FastBat/FastBat.Unit/bin/Debug/nunit.framework.dll

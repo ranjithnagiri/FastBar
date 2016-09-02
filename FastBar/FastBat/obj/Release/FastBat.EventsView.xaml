@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="FastBat.EventsView">
+	<ContentPage.Content>
+		<StackLayout VerticalOptions="FillAndExpand">
+			<Label Text="Event List" FontSize="25" TextColor="Teal" HorizontalOptions="CenterAndExpand" Margin="0,20,0,0" >
+				<Label.FontFamily>
+					<OnPlatform x:TypeArguments="x:String">
+						<OnPlatform.iOS>MarkerFelt-Thin</OnPlatform.iOS>
+						<OnPlatform.Android>MarkerFelt-Thin</OnPlatform.Android>
+					</OnPlatform>
+				</Label.FontFamily>
+			</Label>
+			<ActivityIndicator x:Name="acInLoading" Color="Teal" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+			<ListView x:Name="lstEvents" RowHeight="70" HasUnevenRows="true" Margin="2,2,2,2" SeparatorColor="Teal">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+							<StackLayout Orientation="Horizontal">
+								<StackLayout Padding="5">
+									<Image Source="{Binding CloudinaryPublicImageId}" HeightRequest="60" WidthRequest="60" />
+								</StackLayout>
+								<StackLayout Orientation="Vertical" Padding="5">
+									<Label Text="{Binding Name}" TextColor="Teal" FontSize="14" />
+									<Label Text="{Binding EventKey}" FontSize="10" />
+								</StackLayout>
+							</StackLayout>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+		</StackLayout>
+	</ContentPage.Content>
+</ContentPage>
